@@ -35,3 +35,17 @@
     padding: 12px 20px;
     width: 90%
 }
+#newGame{
+     display: block;
+    margin-top: 2%;
+    background-color: lightseagreen;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 8px;
+    text-align: center;
+}
+#newGame:hover{
+     cursor: pointer;
+}
